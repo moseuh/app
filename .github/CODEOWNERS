@@ -11,9 +11,11 @@
 # Sadly, we have to repeat the top-level owners everywhere,
 # since we are not team-members of a GitHub Organization.
 
-* @advaydev1 @brunobowden @crazybob @hspinks @sammousa
+* @advaydev1 @brunobowden @moseuh @crazybob @hspinks @sammousa
 
-# Feature areas:
+# Feature areas
+#moses maweu
+
 
 # Client UI
 /client/flutter/ @advaydev1 @brunobowden @crazybob @hspinks @patniemeyer @sammousa @theswerd
